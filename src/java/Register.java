@@ -29,7 +29,8 @@ public class Register extends HttpServlet {
 		out.print("You are successfully registered...");
 		
 			
-		}catch (Exception e2) {System.out.println(e2);}
+		}catch (Exception e2) {System.out.println(e2);
+                }
 		
 		out.close();
 	}
