@@ -1,0 +1,5 @@
+class testaddcmd{
+public static void main (String [] args){
+
+}
+}
